@@ -1,0 +1,15 @@
+Participant,Telegraaf-c,Geenstijl-c,RTL-c,NOS-c,NU.nl-c,AD-c,Volkskrant-c,Telegraaf-d,Geenstijl-d,RTL-d,NOS-d,NU.nl-d,AD-d,Volkskrant-d,Telegraaf-g,Geenstijl-g,RTL-g,NOS-g,NU.nl-g,AD-g,Volkskrant-g,Age,Gender,Nationality,Location
+1,,,,,,1,3,5,,,4,,,,"2,4",,,,1,,,22,m,Dutch,Lierop
+2,,,,,,1,2,2,,,,,3,5,"2,4",,,,1,,,24,m,Dutch,Asten
+3,,,,,,1,2,2,,,,,3,5,4,,,,1,,,62,m,Dutch,Wageningen
+4,,,,1,,2,4,2,,,,,,4,"2,4",,,,1,,,63,f,Dutch,Wageningen
+5,,,,4,,1,3,2,,,3,,5,,2,,,,"1,3",,,23,m,Dutch,Wageningen
+6,,,,,,2,3,5,,,,,4,,,,,,"1,3",,,21,m,Dutch,Nijmegen
+7,,,,,,2,3,2,,,3,5,1,,,,,,"1,3",,,22,m,Dutch,Nijmegen
+8,,,,,,2,3,2,,,3,5,1,,,,,,"1,3",5,,20,m,Dutch,Nijmegen
+9,,,,,,2,3,"3,5",,,,,4,,,,,,"1,3",5,,23,f,Dutch,Nijmegen
+10,,,,,,2,3,"3,5",,,,,4,,,,,,"1,3",2,,24,f,Dutch,Nijmegen
+11,,,,3,,1,2,,,,,,,,,,,,,,,21,f,Dutch,Nijmegen
+12,,,,,,,,,,1,,,,,,,"1,2",,,,,53,f,Dutch,Lierop
+13,,,,,,4,3,1,,,,,4,,,,,,"1,4",2,5,56,m,Dutch,Lierop
+14,1,,,,,,5,4,,,,,3,1,,,,,,4,,23,m,Dutch,Nijmegen
